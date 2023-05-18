@@ -1,0 +1,13 @@
+@import '../../styles/settings';
+.timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 75vw;
+  height: 200px;
+  font-size: xxx-large;
+  text-align: center;
+  background: $color-darker;
+  border: 1px solid black;
+  font-family: monospace;
+}
